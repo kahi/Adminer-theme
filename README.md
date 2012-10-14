@@ -1,6 +1,6 @@
 Sorry
 ======
-This project was **discontinued**. Now I work on a better and deepeder Adminer theme – see [github.com/kahi/Adminer](https://github.com/kahi/Adminer).
+This project was **discontinued**. Now I work on a better and deepeder Adminer theme – ***see [github.com/kahi/Adminer](https://github.com/kahi/Adminer)***.
 
 -------------
 
